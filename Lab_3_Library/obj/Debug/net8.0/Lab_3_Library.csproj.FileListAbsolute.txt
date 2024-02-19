@@ -1,0 +1,12 @@
+C:\Users\ramos\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter04\Lab_3_Library\bin\Debug\net8.0\Lab_3_Library.deps.json
+C:\Users\ramos\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter04\Lab_3_Library\bin\Debug\net8.0\Lab_3_Library.dll
+C:\Users\ramos\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter04\Lab_3_Library\bin\Debug\net8.0\Lab_3_Library.pdb
+C:\Users\ramos\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter04\Lab_3_Library\obj\Debug\net8.0\Lab_3_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramos\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter04\Lab_3_Library\obj\Debug\net8.0\Lab_3_Library.AssemblyInfoInputs.cache
+C:\Users\ramos\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter04\Lab_3_Library\obj\Debug\net8.0\Lab_3_Library.AssemblyInfo.cs
+C:\Users\ramos\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter04\Lab_3_Library\obj\Debug\net8.0\Lab_3_Library.csproj.CoreCompileInputs.cache
+C:\Users\ramos\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter04\Lab_3_Library\obj\Debug\net8.0\Lab_3_Library.sourcelink.json
+C:\Users\ramos\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter04\Lab_3_Library\obj\Debug\net8.0\Lab_3_Library.dll
+C:\Users\ramos\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter04\Lab_3_Library\obj\Debug\net8.0\refint\Lab_3_Library.dll
+C:\Users\ramos\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter04\Lab_3_Library\obj\Debug\net8.0\Lab_3_Library.pdb
+C:\Users\ramos\OneDrive\Desktop\Repos\cs11dotnet7\vscode\Chapter04\Lab_3_Library\obj\Debug\net8.0\ref\Lab_3_Library.dll
